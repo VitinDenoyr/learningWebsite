@@ -6,7 +6,6 @@
   margin-top: 0;
   font-size: 14px;
   font-weight: 500;
-  line-height: 20px;
   margin-bottom: 10px;
 }
 
@@ -33,20 +32,6 @@
 
 .video-author {
   margin-bottom: 4px;
-}
-
-@media (min-width: 1000px) {
-  .video-title {
-    font-size: 16px;
-    line-height: 24px;
-  }
-}
-
-@media (min-width: 1000px) {
-  .video-author,
-  .video-stats {
-    font-size: 14px;
-  }
 }
 
 .video-grid {
